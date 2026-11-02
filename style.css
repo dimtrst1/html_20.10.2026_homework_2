@@ -1,0 +1,42 @@
+.container {
+    background-color: lightgrey;
+    max-width: 1000px;
+    margin: 30px auto;
+    padding: 40px;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin: 0;
+}
+
+.second {
+    text-align: center;
+    margin: 0;
+}
+
+.third {
+    text-align: center;
+    margin-left: 47px;
+}
+
+p {
+    margin: 0;
+}
+
+.fourth {
+    opacity: 0.1;
+}
+
+.fifth {
+    opacity: 0.2;
+}
+
+.sixth {
+    opacity: 0.6;
+}
